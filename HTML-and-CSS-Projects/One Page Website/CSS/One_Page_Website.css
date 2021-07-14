@@ -14,7 +14,7 @@ span {
 }
 
 #contact {
-    width: 60%;
+    width: 40%;
     margin: auto;
     border: 3px solid;
     border-color: red;
@@ -35,4 +35,13 @@ span {
     margin: 0px auto;
     background-color: rgba(100, 65, 0, .3);
     box-shadow: 2px 2px 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+.rsvp {
+    width: 95%;
+    margin: 10px;
+    border: 2px solid;
+    border-color: red;
+    color: rgb(182, 95, 89);
+    border-radius: 6px;
 }
